@@ -142,7 +142,8 @@ Hours,Potential (pH),Calcium (mmol/L)
 ## The example provided in the paper
 
 The default setting in the code and the document'25 No L.csv' (25°C, no ion impurities, active degassing method) was used to produce Fig. S3 in the paper. The resulting figure shows the (1) comparsion of pH vs time between the real experimental data; (2) calcium evolution; (3) DIC speciation evolution;(4) saturation index evolution.
-![image](https://github.com/user-attachments/assets/868f1f40-b087-453a-9621-9a6451540201)
+![image](https://github.com/user-attachments/assets/b6a6f299-0db6-4646-9461-4ee027d33202)
+
 
 
 ## 🙏 Acknowledgments
