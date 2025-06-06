@@ -927,7 +927,7 @@ class CaCO3PrecipitationModel:
                     )
         
         # Plot 3: Carbonate Species vs Time
-        axs[1, 0].plot(time_hours, results['CO2']*1000, 'r-', linewidth=2, label='CO₂')
+        # axs[1, 0].plot(time_hours, results['CO2']*1000, 'r-', linewidth=2, label='CO₂')
         axs[1, 0].plot(time_hours, results['HCO3']*1000, 'b-', linewidth=2, label='HCO₃⁻')
         axs[1, 0].plot(time_hours, results['CO3']*1000, 'g-', linewidth=2, label='CO₃²⁻')
         axs[1, 0].set_xlabel('Time (hours)')
